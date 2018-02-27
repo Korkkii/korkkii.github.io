@@ -9,6 +9,14 @@ The latest versions of the project artifacts
 - [Product Vision](https://drive.google.com/open?id=1yAJ1tUxUcPBwP-JQcuusdJAQzJ6bQXftSQH2kNbCI50)
 - [Techical Overview](https://drive.google.com/open?id=13vjEQyhVwfIhY3xnv283gShLnQrS_OkT5TDAJVJmJ2A)
 
+# Project Review 2
+
+Artifacts for the project review in February 2018. The archive contains project artifacts that have changed since Project Review 1.
+
+- [Presentation slides](https://drive.google.com/open?id=1VvHlngsRQNfDK9u6hEq7OJ1vWsR3m9e7)
+- [Archive of Project Review 2 artifacts](https://drive.google.com/open?id=1GWHbSS7_q9UrYbFXWG9jgYhxs45kUuJY)
+- [Project Review Handout](https://drive.google.com/open?id=1dOdy0NoU9jdSbVWyKapXC-TUpfpkNQcfeIjJ3AtY3V4)
+
 # Project Review 1
 
 Artifacts for the project review in December 2017.
