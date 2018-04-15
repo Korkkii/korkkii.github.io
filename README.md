@@ -1,4 +1,4 @@
-# Documentation
+# CV Master
 
 The latest versions of the project artifacts
 
